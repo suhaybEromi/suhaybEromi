@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👨‍💻 some of my projects are available at [https://suhayb-mohammed.web.app/](https://suhayb-mohammed.web.app/)
+- 👨‍💻 some of my projects are available at [[https://suhayb.netlify.app](https://suhayb.netlify.app))
 
 - 📫 How to reach me **suhaibmuhammad083@gmail.com**
 
