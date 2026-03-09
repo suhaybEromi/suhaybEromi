@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 some of my projects are available at [[https://suhayb.netlify.app](https://suhayb.netlify.app))
 
