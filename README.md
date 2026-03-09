@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/suhayberomi" target="blank"><img src="https://img.shields.io/twitter/follow/suhayberomi?logo=twitter&style=for-the-badge" alt="suhayberomi" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I am currently working as an employee in a company and I am also a **Freelancer**
 
 - 🌱 I’m currently learning **MERN Stack**
 
