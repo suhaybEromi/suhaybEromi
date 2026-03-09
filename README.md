@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer from Erbil, Iraq</h3>
 
 <p align="center">
-<a href="https://twitter.com/suhayberomi">
+<a href="https://linkedin.com/in/suhayb-mohammed-2797172a7">
 <img src="https://img.shields.io/twitter/follow/Suhayb_Abbas?logo=twitter&style=for-the-badge">
 </a>
 </p>
@@ -27,7 +27,7 @@ https://suhayb.netlify.app
 
 <p align="left">
 <a href="https://twitter.com/Suhayb_Abbas"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="30"></a>
-<a href="https://linkedin.com/in/suhayb-mohammed"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"></a>
+<a href="https://linkedin.com/in/suhayb-mohammed-2797172a7"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"></a>
 <a href="https://instagram.com/code_with_romi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="30"></a>
 </p>
 
