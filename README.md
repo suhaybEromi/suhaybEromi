@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm suhayb</h1>
-<h3 align="center">i'm full-stack developer from Iraq in Erbil</h3>
+<h3 align="center">i'm Full-Stack developer from Iraq in Erbil</h3>
 
 <p align="left"> <a href="https://twitter.com/suhayberomi" target="blank"><img src="https://img.shields.io/twitter/follow/suhayberomi?logo=twitter&style=for-the-badge" alt="suhayberomi" /></a> </p>
 
