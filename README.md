@@ -35,7 +35,7 @@ https://suhayb.vercel.app
 
 ### 🛠️ Languages and Tools
 
-HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | MySQL | Firebase | AWS | Git | Postman | Figma
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | MySQL | Firebase | Hostinger | Git | Postman | Figma
 
 ---
 
