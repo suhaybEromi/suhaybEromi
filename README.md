@@ -14,7 +14,7 @@
 🌱 I’m currently learning **Advanced MERN Stack Development**
 
 👨‍💻 My portfolio:  
-https://suhayb.vercel.app
+https://suhayb.netlify.app
 
 📫 Contact me:  
 **suhaibmohammed425@gmail.com**
